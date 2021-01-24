@@ -1,0 +1,82 @@
+.TotalInfoBoxYellow{
+    height: 280px;
+    width: 400px;
+    background-color: white;
+    border-top: 10px solid yellow;
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+    margin-left: 50px;
+    font-size: 80px;
+}
+
+.TotalInfoBoxGreen{
+    height: 280px;
+    width: 400px;
+    background-color: white;
+    border-top: 10px solid yellowgreen;
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+    margin-left: 50px;
+    font-size: 80px;
+}
+
+.TotalInfoBoxRed{
+    height: 280px;
+    width: 400px;
+    background-color: white;
+    border-top: 10px solid red;
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+    margin-left: 50px;
+    font-size: 80px;
+}
+
+.TotalInfoBoxOrange{
+    height: 280px;
+    width: 400px;
+    background-color: white;
+    border-top: 10px solid orange;
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+    margin-left: 50px;
+    font-size: 80px;
+}
+
+.TotalInfoBoxBlue{
+    height: 280px;
+    width: 400px;
+    background-color: white;
+    border-top: 10px solid lightblue;
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+    margin-left: 50px;
+    font-size: 80px;
+}
+
+.TotalInfoBoxPurple{
+    height: 280px;
+    width: 400px;
+    background-color: white;
+    border-top: 10px solid purple;
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+    margin-left: 50px;
+    font-size: 80px;
+}
+
+.title {
+    text-align: center;
+}
+
+.Text {
+    font-size: 90px;
+    color: #363636;
+    padding-left: 5px;
+    padding-top: 20px;
+}

@@ -1,0 +1,13 @@
+.table {
+    width: 100%;
+    background-color: white;
+}
+
+th, td, .table {
+    border: 1px solid #000;
+}
+
+.source {
+    padding: 10px;
+    padding-top: 30px;
+}
